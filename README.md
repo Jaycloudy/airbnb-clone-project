@@ -15,7 +15,7 @@ Welcome to the AirBnB Clone Project! This is a frontend-focused project where we
 - Git & GitHub
 - Figma for design
 
-## 🎨 UI/UX Design Planning
+## UI/UX Design Planning
 
 ### 🎯 Design Goals
 
